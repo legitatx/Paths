@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LegitModern/Paths#readme",
   "dependencies": {
+    "@google-cloud/vision": "^2.3.8",
     "express": "^4.17.1",
     "socket.io": "^4.1.3"
   }
